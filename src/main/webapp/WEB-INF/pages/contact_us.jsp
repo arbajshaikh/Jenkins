@@ -5,7 +5,7 @@
      <h1 style="color:green;text-align:center">ContactUs-Page</h1>
     
     
-    <h3 style="color:red">page is under Construction............</h3>
+    <h3 style="color:red">Contact Us Page is here.. will be back soon</h3>
     
      <br><br>
     <a href="welcome.htm">Home</a>
