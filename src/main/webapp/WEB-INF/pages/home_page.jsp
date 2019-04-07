@@ -5,7 +5,7 @@
  <h1 style="color:red;text-align:center">WelCome-SpringMVC Page</h1>
  
  
- <b><a href="wish.htm">getWishMessage</a></b>
+ <b><a href="wish.htm">Get Wish Message</a></b>
  
  <br>
  <br>
