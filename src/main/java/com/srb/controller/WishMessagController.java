@@ -14,8 +14,10 @@ public class WishMessagController extends AbstractController {
 	@Override
 	protected ModelAndView handleRequestInternal(HttpServletRequest request, HttpServletResponse response)
 			throws Exception {
-System.out.println("Hi");
-		int hour=0;
+	System.out.println("Hi");
+
+System.out.println("Hi");	
+	int hour=0;
 		String msg=null;
 		Calendar cal=null;
 		ModelAndView mav=null;
