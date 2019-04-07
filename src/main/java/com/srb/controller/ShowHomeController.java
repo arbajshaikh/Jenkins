@@ -11,7 +11,7 @@ public class ShowHomeController extends AbstractController {
 	@Override
 	protected ModelAndView handleRequestInternal(HttpServletRequest request, HttpServletResponse response)
 			throws Exception {
-		
+		System.out.println("Hello");
 		return new ModelAndView("home_page");
 	}
 
