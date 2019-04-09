@@ -17,10 +17,10 @@
 </bean>
 
 <!-- configure HandlerClasses/Controller -->
-<bean id="shc" class="com.srb.controller.ShowHomeController"/>
-<bean id="wmg" class="com.srb.controller.WishMessagController"/>
-<bean id="about" class="com.srb.controller.AboutController"/>
-<bean id="contact" class="com.srb.controller.ContactController"/>
+<bean id="shc" class="com.arbaj.controller.ShowHomeController"/>
+<bean id="wmg" class="com.arbaj.controller.WishMessagController"/>
+<bean id="about" class="com.arbaj.controller.AboutController"/>
+<bean id="contact" class="com.arbaj.controller.ContactController"/>
 
 <!-- Configure ViewResolver Classe -->
 
